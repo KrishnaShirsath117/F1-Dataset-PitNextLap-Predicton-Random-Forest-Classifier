@@ -1,4 +1,4 @@
-# F1-Dataset-PitNextLap-Predicton-Logistic-Regression
+# F1-Dataset-PitNextLap-Predicton-Random-Forest-Classifier
 
 A machine learning classification project that predicts Formula 1 pit stop decisions using historical race data. The model uses Logistic Regression along with feature engineering, preprocessing, and evaluation metrics to understand pit stop behavior patterns in F1 races.
 
